@@ -22,3 +22,6 @@ Thumbs.db
 
 # Data files
 *.csv
+
+# Created models
+*.joblib
